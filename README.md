@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Solution Architect.
-- 💼 &nbsp; Working as a Full Stack Developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,7 +29,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
+<p align="left">
 https://amitsaraswat.in
 </p>
 
