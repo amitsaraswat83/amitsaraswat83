@@ -7,16 +7,6 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-
-<h2> Hey there! I'm Amit Saraswat.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🎓 &nbsp; Solution Architect.
-- 💼 &nbsp; Working as a Full Stack Developer.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
