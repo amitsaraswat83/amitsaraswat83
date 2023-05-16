@@ -30,7 +30,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-https://amitsaraswat.in
+https://amitsaraswat.co.in
 </p>
 
 ⭐️ From [amitsaraswat83](https://github.com/amitsaraswat83)
